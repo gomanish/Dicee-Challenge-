@@ -1,2 +1,2 @@
-# Dicee-Challenge-
+# Dicee-Challenge
 The Dicee Game
